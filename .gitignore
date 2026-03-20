@@ -1,0 +1,16 @@
+# Astro
+dist/
+.astro/
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Build
+.vercel/
+
+# IDE
+.vscode/
+.idea/
+*.swp

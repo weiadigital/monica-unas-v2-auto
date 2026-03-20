@@ -1,0 +1,26 @@
+{
+  "name": "monica-unas-v2",
+  "version": "1.0.0",
+  "description": "Mónica Uñas Premium - Landing Page",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.1.3",
+    "@astrojs/react": "^3.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "gsap": "^3.12.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.17.1"
+  }
+}
